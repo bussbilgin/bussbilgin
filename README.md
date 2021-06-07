@@ -1,9 +1,9 @@
-### Hi there!
+# BÜŞRA BİLGİN!
 
 I am Büşra Bilgin, a self-taught web front-end developer.
 
-🔭 I’m currently working on Progressive Web Apps and pursuing a career as a front-end developer.
-⚡ Fun fact: I am a Yogini!
+- 🔭 I’m currently working on Progressive Web Apps and pursuing a career as a front-end developer.
+- ⚡ Fun fact: I am a Yogini!
 
 <!--
 **bussbilgin/bussbilgin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
