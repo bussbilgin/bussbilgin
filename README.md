@@ -2,11 +2,11 @@
 
 I am Büşra Bilgin, a self-taught web front-end developer.
 
-- 🔭 I’m currently studying front-end development and pursuing a career as a front-end developer.
+- 🔭 I’m currently studying front-end development and pursuing a career as a Front-End Developer.
 - ⚡ I am a Yogini!
 
 ## Skills
-HTML, CSS, JS
+HTML, CSS, JS, Vue.JS
 
 <!--
 **bussbilgin/bussbilgin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
