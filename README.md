@@ -2,7 +2,7 @@
 
 I am Büşra Bilgin, a self-taught web front-end developer.
 
-- 🔭 I’m currently studying front-end development and pursuing a career as a Front-End Developer.
+- 🔭  I’m currently working on Progressive Web Apps and pursuing a career as a Front-End Developer.
 - ⚡ I am a Yogini!
 
 ## Skills
