@@ -6,7 +6,7 @@ I am Büşra Bilgin, a self-taught web front-end developer.
 - ⚡ I am a Yogini!
 
 ## Skills
-HTML, CSS, JS, React.JS, Next.JS, Vue.JS 
+HTML, CSS, JS, React, NextJS, React Native
 
 <!--
 **bussbilgin/bussbilgin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
